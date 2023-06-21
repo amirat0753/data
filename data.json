@@ -1,0 +1,30 @@
+[
+  {
+     
+    "id": 1
+    
+ },
+
+ { 
+  "id": 2,
+  "name":"DR.Matthew",
+  "topic": "ARTICLES",
+  "details":"should be tested post covid",
+  "profileImage": "https://images.pexels.com/photos/12495583/pexels-photo-12495583.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+ },
+
+ {
+   "id": 3,
+   "name": "DR.Margaret",
+   "topic":"ARTICLES",
+   "details": "Overeatine? Mindfullness and support",
+    "profileImage":"https://images.pexels.com/photos/12660379/pexels-photo-12660379.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+ },
+ { 
+   "id": 4,
+   "name":"DR.Anderson",
+   "topic":"ARTICLES",
+   "details": "Can vitamin supplements prevent health issues?",
+   "profileImage":"https://images.pexels.com/photos/6749777/pexels-photo-6749777.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+ }
+]
